@@ -1,4 +1,2 @@
-<<<<<<< HEAD
 This is taking so long time
 ohh no this is bad
->>>>>>> 3c36df771dca06173fe310d244b87ffb37a52dfd
